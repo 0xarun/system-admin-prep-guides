@@ -1,7 +1,6 @@
 
 # Interview Preparation Guide
 
-**Location:** LIG 561, 8th Street, Eri Scheme, Mogappair, Chennai - 600037  
 **Interview Type:** Basic System Knowledge Interview  
 **Goal:** Understand and prepare for topics related to computer hardware, operating systems, and basic troubleshooting.
 
