@@ -8,7 +8,7 @@
 
 ## ðŸ§­ Overview
 
-The interview at **SMS Computers** is likely for a **System Support / Hardware Technician / IT Assistant** type of role.  
+The interview is likely for a **System Support / Hardware Technician / IT Assistant** type of role.  
 They expect you to have **basic system knowledge**, meaning you should understand:
 
 - How computers and networks work.
